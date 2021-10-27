@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="left"><img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" width="200px"> <p>I'm João Víctor</p> </h2>
 
-<!--
-**joaovpaschuino/joaovpaschuino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <h3 align="left">Languages and Tools:</h3>
+  <a href=https://www.python.org> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <h2>💡 GitHub Analytics</h2>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=joaovpaschuino&show_icons=true&theme=vision-friendly-dark" alt="joao stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovpaschuino&layout=compact&theme=vision-friendly-dark" alt="joao most languages"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+  <h2> Entre em contato </h2>
+  <a href=https://www.linkedin.com/in/joaovspaschuino/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" /> </a>
+</p>
