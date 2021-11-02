@@ -9,7 +9,7 @@
 
 <div>
   <h2> About me </h2>
-    <p> I'm a student of Systems Analysis and Development at FATEC Mogi das Cruzes </p>
+    <p> 🤓 I'm undergraduate from <a href="https://www.fatecmogidascruzes.com.br"> FATEC Mogi das Cruzes </a> </p>
 </div>
 
 </br>
@@ -43,7 +43,7 @@
 </br>
 
 <div>
-  <h2> Contact me on </h2>
+  <h2> Get in touch </h2>
   <a href="https://www.linkedin.com/in/joaovspaschuino/"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50/>
   </a>
